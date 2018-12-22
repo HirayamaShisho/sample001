@@ -1,0 +1,8 @@
+.bin/
+.git/
+bin/Debug/netcoreapp2.2/testProj01.runtimeconfig.dev.json
+bin/Debug/netcoreapp2.2/testProj01.dll
+bin/Debug/netcoreapp2.2/testProj01.pdb
+bin/Debug/netcoreapp2.2/testProj01.deps.json
+bin/Debug/netcoreapp2.2/testProj01.runtimeconfig.json
+obj/Debug/*
